@@ -25,4 +25,4 @@ test2 v.1.1
 test1 v.1.0
 test2 v.1.1
 
-합체하자 친구 merge
+합병하자
